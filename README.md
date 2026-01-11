@@ -2,7 +2,7 @@
 
 🎓 ENTC undergraduate @ **PICT, Pune** (Class of 2026)  
 💼 **SDE Intern @ Hummingbrid Web Solutions**  
-💼 **ex-ML Intern @ Indian Institute of Tropical Meteorology**
+💼 **ex-ML Intern @ Indian Institute of Tropical Meteorology**  
 🤖 Focused on **AI/ML, Deep Learning, and Time Series Forecasting**
 
 ---
@@ -46,6 +46,5 @@
 ---
 
 ## Connect
-- 🔗 GitHub: https://github.com/Adi0408  
 - 💼 LinkedIn: https://linkedin.com/in/AS008  
 - 📫 Email: adityasenapati2474@gmail.com
