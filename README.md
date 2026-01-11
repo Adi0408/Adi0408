@@ -2,6 +2,7 @@
 
 🎓 ENTC undergraduate @ **PICT, Pune** (Class of 2026)  
 💼 **SDE Intern @ Hummingbrid Web Solutions**  
+💼 **ex-ML Intern @ Indian Institute of Tropical Meteorology**
 🤖 Focused on **AI/ML, Deep Learning, and Time Series Forecasting**
 
 ---
